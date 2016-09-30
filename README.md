@@ -2,6 +2,8 @@
 
 This is the list of awesome computer science Courses that I found on the web free of cost, feel free to send a PR , if you find any more :)
 
+## TRISEMESTER I
+
   1. PROG 102A | Introductory | Programming | MIT 6.00.1x | Introduction to Computer Science and Programming Using Python| https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-6#
   2. PROG 102B | Introductory | MIT 6.00.2x | Introduction to Computational Thinking Data Science | https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-3#
   3. PROG 001A | MIT 6.00     | Introduction to Computer Science and Programming  | http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/
@@ -18,8 +20,10 @@ This is the list of awesome computer science Courses that I found on the web fre
   14. TC 101B  | Coursera (Rice) | Principles of Computing (Part 1) | https://www.coursera.org/learn/principles-of-computing-1 
   15. https://www.sics.se/~amir/files/download/dic/ 
   
-  ## Trimester II                                                    |                                            | PROG 201                                                        | Core                                       | Programming                                | Stanford CS 107             | Programming Paradigms                                                   | https://www.youtube.com/playlist?list=PL9D558D49CA734A02                                                                                                |  |  |  | 
-| MATH 201                                                        | Core                                       | Math                                       | Coursera (Brown)            | Coding the Matrix: Linear Algebra through Computer Science Applications | https://www.coursera.org/course/matrix                                                                                                                  |  |  |  | 
+  ## Trimester II 
+  
+  1. [PROG 201 | Core | Programming | Stanford CS 107 | Programming Paradigms ](https://www.youtube.com/playlist?list=PL9D558D49CA734A02) 
+  2. MATH 201                                                        | Core                                       | Math                                       | Coursera (Brown)            | Coding the Matrix: Linear Algebra through Computer Science Applications | https://www.coursera.org/course/matrix                                                                                                                  |  |  |  | 
 | MATH 202                                                        | Core                                       |                                            | Berkeley CS 70              | Discrete Math and Probability Theory (CS70)                             | https://www.youtube.com/watch?v=2gfXZSA1oMg&index=2&list=PL-XXv-cvA_iDze6fOp3qofgyjJVUioedA                                                             |  |  |  | 
 | TC 201A                                                         | Core                                       | Theory of Computation                      | UNSW                        | Theory of Computation                                                   | https://www.youtube.com/playlist?list=PLslgisHe5tBM8UTCt1f66oMkpmjCblzkt                                                                                |  |  |  | 
 | TC 201B                                                         | →                                          |                                            | IIT Kanpur                  | Theory of Computation                                                   | https://www.youtube.com/watch?v=al4AK6ruRek&list=PLbMVogVj5nJSd25WnSU144ZyGmsqjuKr3                                                                     |  |  |  | 
