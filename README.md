@@ -13,11 +13,11 @@ This is the list of awesome computer science Courses that I found on the web fre
   7. MATH 101  | Introductory | Math | ArsDigita | Discrete Mathematics| https://www.youtube.com/watch?v=h_9WjWENWV8&feature=share&list=PLTdIp1DywMlUpLHEg3ADhE6rrxhW_T5Rx
   8. MATH 001  | MIT 6.042J | Mathematics for Computer Science | http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/
   9. AD 101A   | Introductory | Algorithms and Data Structures | UNSW | Introduction to Data Structures and Algorithms | https://www.youtube.com/watch?v=RpRRUQFbePU&list=PLE621E25B3BF8B9D1
-  10. AD 101B  | Coursera (Princeton) | Introduction to Algorithms (Part 1)| https://www.coursera.org/course/algs4partI
-  11. AD 101C  | MIT 6.006 | Introduction to Algorithms | http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/ 
-  12. AD 101D  | Stony Brook University | Introduction to Algorithms | https://www.youtube.com/watch?v=ZFjhkohHdAA&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b)
-  13. TC 101A  | Introductory | Theory of Computation | Stonehill (Coderisland) | Introduction to the Theory of Computation | https://www.youtube.com/playlist?list=PL601FC994BDD963E4
-  14. TC 101B  | Coursera (Rice) | Principles of Computing (Part 1) | https://www.coursera.org/learn/principles-of-computing-1 
+  10. [AD 101B  | Coursera (Princeton) | Introduction to Algorithms (Part 1)](https://www.coursera.org/course/algs4partI)
+  11. [AD 101C  | MIT 6.006 | Introduction to Algorithms ](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/) 
+  12. [AD 101D  | Stony Brook University | Introduction to Algorithms ](https://www.youtube.com/watch?v=ZFjhkohHdAA&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b)
+  13. [TC 101A  | Introductory | Theory of Computation | Stonehill (Coderisland) | Introduction to the Theory of Computation ](https://www.youtube.com/playlist?list=PL601FC994BDD963E4)
+  14. [TC 101B  | Coursera (Rice) | Principles of Computing (Part 1) ](https://www.coursera.org/learn/principles-of-computing-1)
   15. https://www.sics.se/~amir/files/download/dic/ 
   
   ## Trimester II 
