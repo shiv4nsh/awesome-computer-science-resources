@@ -1,4 +1,4 @@
-# awesome-computer-science-resources
+# awesome-computer-science-resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 This is the list of awesome computer science Courses that I found on the web free of cost, feel free to send a PR , if you find any more :)
 
