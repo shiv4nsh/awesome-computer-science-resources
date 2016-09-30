@@ -4,15 +4,15 @@ This is the list of awesome computer science Courses that I found on the web fre
 
 ## TRISEMESTER I
 
-  1. PROG 102A | Introductory | Programming | MIT 6.00.1x | Introduction to Computer Science and Programming Using Python| https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-6#
-  2. PROG 102B | Introductory | MIT 6.00.2x | Introduction to Computational Thinking Data Science | https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-3#
-  3. PROG 001A | MIT 6.00     | Introduction to Computer Science and Programming  | http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/
-  4. PROG 001B | Harvard CS50(x) | Intensive Introduction to Computer Science | https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#.VST3yxPF_7c
-  5. PROG 101  | Introductory | Programming | Stanford CS 106B | Programming Abstractions| https://www.youtube.com/view_play_list?p=FE6E58F856038C69
-  6. PROG 001  | Stanford CS 106A | Introduction to Computer science | Programming methodology | https://see.stanford.edu/Course/CS106A 
-  7. MATH 101  | Introductory | Math | ArsDigita | Discrete Mathematics| https://www.youtube.com/watch?v=h_9WjWENWV8&feature=share&list=PLTdIp1DywMlUpLHEg3ADhE6rrxhW_T5Rx
-  8. MATH 001  | MIT 6.042J | Mathematics for Computer Science | http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/
-  9. AD 101A   | Introductory | Algorithms and Data Structures | UNSW | Introduction to Data Structures and Algorithms | https://www.youtube.com/watch?v=RpRRUQFbePU&list=PLE621E25B3BF8B9D1
+  1. [PROG 102A | Introductory | Programming | MIT 6.00.1x | Introduction to Computer Science and Programming Using Python| ](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-6#)
+  2. [PROG 102B | Introductory | MIT 6.00.2x | Introduction to Computational Thinking Data Science ](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-3#)
+  3. [PROG 001A | MIT 6.00 | Introduction to Computer Science and Programming](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/)
+  4. [PROG 001B | Harvard CS50(x) | Intensive Introduction to Computer Science ](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#.VST3yxPF_7c)
+  5. [PROG 101  | Introductory | Programming | Stanford CS 106B | Programming Abstractions](https://www.youtube.com/view_play_list?p=FE6E58F856038C69)
+  6. [PROG 001  | Stanford CS 106A | Introduction to Computer science | Programming methodology](https://see.stanford.edu/Course/CS106A)
+  7. [MATH 101  | Introductory | Math | ArsDigita | Discrete Mathematics ](https://www.youtube.com/watch?v=h_9WjWENWV8&feature=share&list=PLTdIp1DywMlUpLHEg3ADhE6rrxhW_T5Rx)
+  8. [MATH 001  | MIT 6.042J | Mathematics for Computer Science](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
+  9. [AD 101A   | Introductory | Algorithms and Data Structures | UNSW | Introduction to Data Structures and Algorithms | ](https://www.youtube.com/watch?v=RpRRUQFbePU&list=PLE621E25B3BF8B9D1)
   10. [AD 101B  | Coursera (Princeton) | Introduction to Algorithms (Part 1)](https://www.coursera.org/course/algs4partI)
   11. [AD 101C  | MIT 6.006 | Introduction to Algorithms ](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/) 
   12. [AD 101D  | Stony Brook University | Introduction to Algorithms ](https://www.youtube.com/watch?v=ZFjhkohHdAA&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b)
@@ -20,7 +20,7 @@ This is the list of awesome computer science Courses that I found on the web fre
   14. [TC 101B  | Coursera (Rice) | Principles of Computing (Part 1) ](https://www.coursera.org/learn/principles-of-computing-1)
   15. https://www.sics.se/~amir/files/download/dic/ 
   
-  ## Trimester II 
+## Trimester II 
   
   1. [PROG 201 | Core | Programming | Stanford CS 107 | Programming Paradigms ](https://www.youtube.com/playlist?list=PL9D558D49CA734A02) 
   2. MATH 201                                                        | Core                                       | Math                                       | Coursera (Brown)            | Coding the Matrix: Linear Algebra through Computer Science Applications | https://www.coursera.org/course/matrix                                                                                                                  |  |  |  | 
