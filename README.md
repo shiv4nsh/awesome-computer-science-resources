@@ -45,12 +45,15 @@ This is the list of awesome computer science Courses that I found on the web fre
   5. [AI 201 | Core | Artificial Intelligence & Machine Learning | Berkeley CS 188| Introduction to Artificial Intelligence](https://www.youtube.com/watch?v=-IDTdDm2DHo&list=PLF1A9D9034225FC92)
   6. [AI 201 | EdX | Artificial Intelligence](https://www.edx.org/course/artificial-intelligence-uc-berkeleyx-cs188-1x#!)
   7. [SC 201A | Core | Security and Cryptography | Ruhr| Introduction to Cryptography](https://www.youtube.com/watch?v=2aHkqB2-46k)  
-  8. [SC 201B | Coursera (Stanford)| Cryptography I](https://www.coursera.org/course/crypto)
-  9. [SC 201C | Thammasat ITS 335| Introduction to Security](https://www.youtube.com/watch?v=bx5CPmNbblI&list=PLvifRcqOOwF89bqRiJEWyu5k7qJaTNMRj)
+  8. [SC 201B  | Coursera (Stanford)                                         | Cryptography I]
+  (https://www.coursera.org/course/crypto)
+  9. [SC 201C  | Thammasat ITS 335                                           | Introduction to Security]
+  (https://www.youtube.com/watch?v=bx5CPmNbblI&list=PLvifRcqOOwF89bqRiJEWyu5k7qJaTNMRj)
+  10. [NET 201A| Core  | Networking           | Thammasat ITS 323           | Introduction to Data Communications]
+  (https://www.youtube.com/playlist?list=PLvifRcqOOwF8u4iC7hFTMVC_WD6SEpnkx)
+  11. [NET 201B| CUNY                                                       | Fundamentals of Computer Networking]
+  (https://www.youtube.com/watch?v=kKpU0mNpPoM)
   
-  10.[NET 201A | Core| Networking| Thammasat ITS 323| Introduction to Data Communications](https://www.youtube.com/playlist?list=PLvifRcqOOwF8u4iC7hFTMVC_WD6SEpnkx)
-  
-  11.[NET 201B | CUNY| Fundamentals of Computer Networking](https://www.youtube.com/watch?v=kKpU0mNpPoM)
 
 ## Extras – Electives / Intermediate / Advanced / Graduate Courses
   1. [SA 101 | Software Architecture | Udacity (Georgia Tech)| Software Architecture and Design](https://www.udacity.com/course/software-architecture-design--ud821)
