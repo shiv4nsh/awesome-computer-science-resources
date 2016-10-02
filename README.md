@@ -47,11 +47,14 @@ This is the list of awesome computer science Courses that I found on the web fre
   7. [SC 201A | Core | Security and Cryptography | Ruhr| Introduction to Cryptography](https://www.youtube.com/watch?v=2aHkqB2-46k)  
   8. [SC 201B | Coursera (Stanford)| Cryptography I](https://www.coursera.org/course/crypto)
   9. [SC 201C | Thammasat ITS 335| Introduction to Security](https://www.youtube.com/watch?v=bx5CPmNbblI&list=PLvifRcqOOwF89bqRiJEWyu5k7qJaTNMRj)
+  
   10.[NET 201A | Core| Networking| Thammasat ITS 323| Introduction to Data Communications](https://www.youtube.com/playlist?list=PLvifRcqOOwF8u4iC7hFTMVC_WD6SEpnkx)
+  
   11.[NET 201B | CUNY| Fundamentals of Computer Networking](https://www.youtube.com/watch?v=kKpU0mNpPoM)
 
 ## Extras – Electives / Intermediate / Advanced / Graduate Courses
-  1. [SA 101 | Software Architecture | Udacity (Georgia Tech)| Software Architecture and Design](https://www.udacity.com/course/software-architecture-design--ud821) 2. [CC 101 | Cloud Computing| EdX (IEEE) | Introduction To Cloud Computing|](https://www.edx.org/course/introduction-cloud-computing-ieeex-cloudintro-x-0)
+  1. [SA 101 | Software Architecture | Udacity (Georgia Tech)| Software Architecture and Design](https://www.udacity.com/course/software-architecture-design--ud821)
+  2. [CC 101 | Cloud Computing| EdX (IEEE) | Introduction To Cloud Computing|](https://www.edx.org/course/introduction-cloud-computing-ieeex-cloudintro-x-0)
   3. [PROG 301 | Programming| UNSW CS3| Design in Computing](https://www.youtube.com/playlist?list=PL0C5D85DBA20E685C)
   4. [PROG 303 | Coursera (UC Santa Cruz)| C++ For C Programmers](https://www.coursera.org/course/cplusplus4c)
   5. [PROG 401 | Coursera (Illinois)| Heterogeneous Parallel Programming](https://www.coursera.org/course/hetero)
