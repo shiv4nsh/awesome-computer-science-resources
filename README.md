@@ -19,6 +19,8 @@ This is the list of awesome computer science Courses that I found on the web fre
   13. [TC 101A  | Introductory | Theory of Computation | Stonehill (Coderisland) | Introduction to the Theory of Computation ](https://www.youtube.com/playlist?list=PL601FC994BDD963E4)
   14. [TC 101B  | Coursera (Rice) | Principles of Computing (Part 1) ](https://www.coursera.org/learn/principles-of-computing-1)
   15. https://www.sics.se/~amir/files/download/dic/ 
+  16. [Coursera (University of Toronto) | Learn to Program: The Fundamentals] (https://www.coursera.org/learn/learn-to-program)
+  17. [Coursera (Univeristy of Toronto) | Learn to Program: Crafting Quality Code] (https://www.coursera.org/learn/program-code)
   
 ## Trimester II 
   
