@@ -18,7 +18,10 @@ This is the list of awesome computer science Courses that I found on the web fre
   12. [AD 101D  | Stony Brook University | Introduction to Algorithms ](https://www.youtube.com/watch?v=ZFjhkohHdAA&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b)
   13. [TC 101A  | Introductory | Theory of Computation | Stonehill (Coderisland) | Introduction to the Theory of Computation ](https://www.youtube.com/playlist?list=PL601FC994BDD963E4)
   14. [TC 101B  | Coursera (Rice) | Principles of Computing (Part 1) ](https://www.coursera.org/learn/principles-of-computing-1)
-  15. https://www.sics.se/~amir/files/download/dic/ 
+  15. [| Big-Data University | Hadoop Programming ](https://bigdatauniversity.com/learn/big-data-hadoop-programming)
+  16. [| Big-Data University | Big Data Analytics ](https://bigdatauniversity.com/learn/analytics)
+  17. [| Big-Data University | Scala Programming for Data Science ](https://bigdatauniversity.com/learn/scala)
+  18. https://www.sics.se/~amir/files/download/dic/ 
   
 ## Trimester II 
   
