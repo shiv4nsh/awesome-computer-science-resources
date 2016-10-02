@@ -1,6 +1,6 @@
 # awesome-computer-science-resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-This is the list of awesome computer science Courses that I found on the web free of cost, feel free to send a PR , if you find any more :)
+This is the list of **Awesome computer science Courses** that I found on the web free of cost, feel free to send a PR , if you find any more :)
 
 ## TRISEMESTER I
 
@@ -20,10 +20,10 @@ This is the list of awesome computer science Courses that I found on the web fre
   14. [TC 101B  | Coursera (Rice) | Principles of Computing (Part 1) ](https://www.coursera.org/learn/principles-of-computing-1)
   15. https://www.sics.se/~amir/files/download/dic/ 
   
-## Trimester II 
+## TRIMESTER II 
   
   1. [PROG 201 | Core | Programming | Stanford CS 107 | Programming Paradigms ](https://www.youtube.com/playlist?list=PL9D558D49CA734A02) 
-  2. MATH 201                                                        | Core                                       | Math                                       | Coursera (Brown)            | Coding the Matrix: Linear Algebra through Computer Science Applications | https://www.coursera.org/course/matrix                                                                                                                  |  |  |  | 
+  2. MATH 201 | Core | Math | Coursera (Brown) | Coding the Matrix: Linear Algebra through Computer Science Applications | https://www.coursera.org/course/matrix                                                                                                                  |  |  |  | 
 | MATH 202                                                        | Core                                       |                                            | Berkeley CS 70              | Discrete Math and Probability Theory (CS70)                             | https://www.youtube.com/watch?v=2gfXZSA1oMg&index=2&list=PL-XXv-cvA_iDze6fOp3qofgyjJVUioedA                                                             |  |  |  | 
 | TC 201A                                                         | Core                                       | Theory of Computation                      | UNSW                        | Theory of Computation                                                   | https://www.youtube.com/playlist?list=PLslgisHe5tBM8UTCt1f66oMkpmjCblzkt                                                                                |  |  |  | 
 | TC 201B                                                         | →                                          |                                            | IIT Kanpur                  | Theory of Computation                                                   | https://www.youtube.com/watch?v=al4AK6ruRek&list=PLbMVogVj5nJSd25WnSU144ZyGmsqjuKr3                                                                     |  |  |  | 
