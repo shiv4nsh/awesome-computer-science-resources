@@ -2,7 +2,7 @@
 
 This is the list of awesome computer science Courses that I found on the web free of cost, feel free to send a PR , if you find any more :)
 
-## TRISEMESTER I
+## Trimester I
 
   1. [PROG 102A | Introductory | Programming | MIT 6.00.1x | Introduction to Computer Science and Programming Using Python| ](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-6#)
   2. [PROG 102B | Introductory | MIT 6.00.2x | Introduction to Computational Thinking Data Science ](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-3#)
