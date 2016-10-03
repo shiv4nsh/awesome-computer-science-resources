@@ -81,7 +81,7 @@ This is a list of awesome, free computer science courses that I found on the web
 25. [AI 304 | Udacity (Google) | Deep Learning ](https://www.udacity.com/course/deep-learning--ud730)
 26. [NET 301 | Networking and Communication | U. of Washington | Computer Networks ](https://www.youtube.com/watch?v=d4_7dUFl4v0&list=PLkHsKoi6eZnzJl1qTzmvBwTxrSJW4D2Jj)
 27. [NET 302 | Thammasat ITS 413 | Internet Technologies and Applications ](https://www.youtube.com/playlist?list=PLvifRcqOOwF9cfLMTE-42fiBsWvBsOEkS)
-28. [COMP 301 | Compilers | Stanford | Compilers ])https://www.coursera.org/course/compilers) 
+28. [COMP 301 | Compilers | Stanford | Compilers ](https://www.coursera.org/course/compilers) 
 29. [WEB 201 | Web Development | Harvard CS 75 | Building Dynamic Websites ](http://cs75.tv/2012/summer/)                               30. [MOB 201 | Mobile App Development | Harvard CS 76 | Building Mobile Applications ](https://www.youtube.com/watch?v=Lz7U66RLC1E&list=PLifX7FLW45Ncn-YnaBPSsVz2HYsW8mfAX&index=32) 
 31. [ MOB 202 | ITx | IPhone / iOS 8 Application Development ](https://www.youtube.com/watch?=GOEPVM5OzJk&list=PLy7oRd3ashWodnpf8rjfYEkTgwbOEsKfU)
 32. [ MOB 203 | ITU | Android Application Development ](https://www.youtube.com/playlist?list=PL1E8E7D2B6EB11301)
