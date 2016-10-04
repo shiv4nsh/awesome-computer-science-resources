@@ -20,6 +20,7 @@ This is the list of awesome computer science Courses that I found on the web fre
   14. [TC 101B  | Coursera (Rice) | Principles of Computing (Part 1) ](https://www.coursera.org/learn/principles-of-computing-1)
   15. https://www.sics.se/~amir/files/download/dic/ 
   16. [Coursera | Learn to Program: The Fundamentals] (https://www.coursera.org/learn/learn-to-program)
+  17. [Coursera | Learn to Program: Crafting Quality Code] (https://www.coursera.org/learn/program-code)
   
 ## Trimester II 
   
